@@ -4,7 +4,7 @@
 
 # About
 
-[Click here to see the Bad Bank App.](https://rainakpuels.github.io/Bad-Bank-App)
+[Click here to see the Bad Bank App.](https://raina-kpuelsbankingapplication.s3.us-east-2.amazonaws.com/index.html#/alldata/)
 
 This is an exercise developed during MIT xPro Full Stack Professional Certificate in Coding.
 
